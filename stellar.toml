@@ -1,1 +1,8 @@
-SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
+[[CURRENCIES]]
+code="SQ02_EASTER_EGG"
+issuer="GCPCMHU2DJPBQEKGQFXCKM7KLY5Y6YVBBNLQXFUHV5RROYQBSBCBLOEM"
+display_decimals=4
+name="Aaa"
+desc="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
+conditions="There will only ever be 600,000,000 CAT tokens in existence."
+image="https://avatars1.githubusercontent.com/u/36980416"
